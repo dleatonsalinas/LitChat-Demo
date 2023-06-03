@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LitChat-Demo/static/css/main.b3caf250.css",
+    "main.js": "/LitChat-Demo/static/js/main.0214fc04.js",
+    "static/media/featured-groups.jpeg": "/LitChat-Demo/static/media/featured-groups.aa673f9f98e11a87654d.jpeg",
+    "static/media/groups-photo.jpg": "/LitChat-Demo/static/media/groups-photo.6b7bf059d18edf2575f8.jpg",
+    "static/media/feature-02-sm.png": "/LitChat-Demo/static/media/feature-02-sm.2d84b1e8d9c6b583e4d2.png",
+    "static/media/feature-01-sm.png": "/LitChat-Demo/static/media/feature-01-sm.eb06647a5c4f29ee192a.png",
+    "static/media/feature-03-sm.png": "/LitChat-Demo/static/media/feature-03-sm.d1562741133f35c8d978.png",
+    "static/media/hero.jpg": "/LitChat-Demo/static/media/hero.041db38a7efc9ad97001.jpg",
+    "static/media/Portrait_Placeholder.png": "/LitChat-Demo/static/media/Portrait_Placeholder.157f088b56f86d22066e.png",
+    "static/media/404.png": "/LitChat-Demo/static/media/404.c3cd4bbecec5289da055.png",
+    "static/media/LitChat_Logo-removebg.png": "/LitChat-Demo/static/media/LitChat_Logo-removebg.e460c6c2fe2b89e0aa37.png",
+    "static/media/book-sci-fi.jpg": "/LitChat-Demo/static/media/book-sci-fi.114c076e98f909b9943e.jpg",
+    "static/media/book-mystery.jpg": "/LitChat-Demo/static/media/book-mystery.7e8166ac7af1e5388779.jpg",
+    "static/media/book-self-help.jpg": "/LitChat-Demo/static/media/book-self-help.1bbf4dfc0520dd9dcf60.jpg",
+    "static/media/book-coding.jpg": "/LitChat-Demo/static/media/book-coding.6289435c924956a5a08a.jpg",
+    "index.html": "/LitChat-Demo/index.html",
+    "main.b3caf250.css.map": "/LitChat-Demo/static/css/main.b3caf250.css.map",
+    "main.0214fc04.js.map": "/LitChat-Demo/static/js/main.0214fc04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3caf250.css",
+    "static/js/main.0214fc04.js"
+  ]
+}
