@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LitChat-Demo/static/css/main.b3caf250.css",
+    "main.css": "/LitChat-Demo/static/css/main.6a82366f.css",
     "main.js": "/LitChat-Demo/static/js/main.b6b6ad49.js",
     "static/media/featured-groups.jpeg": "/LitChat-Demo/static/media/featured-groups.aa673f9f98e11a87654d.jpeg",
     "static/media/groups-photo.jpg": "/LitChat-Demo/static/media/groups-photo.6b7bf059d18edf2575f8.jpg",
@@ -16,11 +16,11 @@
     "static/media/book-self-help.jpg": "/LitChat-Demo/static/media/book-self-help.1bbf4dfc0520dd9dcf60.jpg",
     "static/media/book-coding.jpg": "/LitChat-Demo/static/media/book-coding.6289435c924956a5a08a.jpg",
     "index.html": "/LitChat-Demo/index.html",
-    "main.b3caf250.css.map": "/LitChat-Demo/static/css/main.b3caf250.css.map",
+    "main.6a82366f.css.map": "/LitChat-Demo/static/css/main.6a82366f.css.map",
     "main.b6b6ad49.js.map": "/LitChat-Demo/static/js/main.b6b6ad49.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3caf250.css",
+    "static/css/main.6a82366f.css",
     "static/js/main.b6b6ad49.js"
   ]
 }
